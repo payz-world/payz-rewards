@@ -1,0 +1,6 @@
+This repository's build depends on OpenZeppelin Contracts version 5.6.1,
+licensed under the MIT License. OpenZeppelin source files are consumed as a
+package dependency and are not copied into this repository.
+
+OpenZeppelin Contracts source and license:
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/v5.6.1

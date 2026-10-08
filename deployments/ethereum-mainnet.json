@@ -1,0 +1,19 @@
+{
+  "network": "Ethereum Mainnet",
+  "chainId": 1,
+  "contractName": "PayzRewardsPoints",
+  "address": "0xe5940671cb6728f120006c35c067811f5f8864ec",
+  "deploymentTransactionHash": "0x9a6ebf9b6e6d2446e57fff135ef0a8a24e053b602d8f956fa880327eef42a0af",
+  "deploymentBlock": 26146293,
+  "deploymentTimestamp": "2026-10-08T07:49:59Z",
+  "deploymentStatus": "success",
+  "deployer": "0x18f4939f0e7b8a39faa0afdb205ceb21fa7060c5",
+  "currentOwnerObserved": "0x18f4939f0e7b8a39faa0afdb205ceb21fa7060c5",
+  "sourceVerification": {
+    "etherscanVerified": false,
+    "repositorySourceMatchesDeployment": "not verified"
+  },
+  "explorerAddress": "https://etherscan.io/address/0xe5940671cb6728f120006c35c067811f5f8864ec",
+  "explorerTransaction": "https://etherscan.io/tx/0x9a6ebf9b6e6d2446e57fff135ef0a8a24e053b602d8f956fa880327eef42a0af",
+  "chainDataCheckedAt": "2026-10-08"
+}
